@@ -1,0 +1,3 @@
+[submodule "DESC"]
+	path = DESC
+	url = https://github.com/PlasmaControl/DESC.git
